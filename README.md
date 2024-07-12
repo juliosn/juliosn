@@ -124,8 +124,9 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:juliodsneves@hotmail.com"><img width="5%" height="5%" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/juliosn"><img width="5%" height="5%" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/juliosn"><img width="5%" height="5%" src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/j%C3%BAliodsneves/"><img width="5%" height="5%" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
+	<a href="https://www.instagram.com/julionevesz/"><img width="5%" height="5%" src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000" alt="Instagram"/></a>	
 </p>
 
 <hr/>
