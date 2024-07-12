@@ -2,7 +2,7 @@
 <p align="center">
   <img height="600" width="750" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Programming Pixel Art" />
 </p>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=2500&pause=750&color=F7CD00&center=true&vCenter=true&random=true&width=446&lines=18+years+old.;Back-End+Developer;IT+Enthusiast" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=1000&color=F7CD00&random=false&width=446&height=64&lines=18+years+old;Software+Developer;IT+Enthusiast" alt="Typing SVG" /></h2>
 <hr/>
 
 ## 🛠️ My Skills
