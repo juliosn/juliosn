@@ -2,7 +2,7 @@
 <p align="center">
   <img height="600" width="750" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Programming Pixel Art" />
 </p>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=1000&color=F7CD00&random=false&width=446&height=64&lines=18+years+old;Software+Developer;IT+Enthusiast" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=1000&color=F7CD00&random=false&width=446&height=64&lines=19+years+old;Software+Developer;IT+Enthusiast" alt="Typing SVG" /></h2>
 <hr/>
 
 ## 🛠️ My Skills
@@ -58,6 +58,10 @@
     <img alt="OpenCV" src ="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   &emsp;
     <img alt="jQuery" src ="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+  &emsp;
+   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  &emsp;
+   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
   
 
@@ -69,6 +73,8 @@
     <img alt="SQLServer" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></a>
+  &emsp;
+    <img alt="Firebase" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   </p>
   
   
@@ -87,6 +93,8 @@
     <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+  &emsp;
+    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 </p>
 
 ### 👉 Others
